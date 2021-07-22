@@ -5,4 +5,4 @@ If you visit https://aave.com/ you will notice that every Aave V2 market has a D
 
 Per active market, Deposit APY is strictly less than Variable Borrow APR. However, you'll notice that Deposit APY is not strictly less than Variable Borrow APR across markets (i.e. Deposit APY for Token X may be greater than Variable Borrow APR for Token Y).
 
-This assessment explores the concept of generating yield by exploiting differences in rates across markets through the use of decentralized lending protocols and decentralized exchanges. Please create a repository on Github for you submission and create a feature branch for your work. NOTE: Aave-trage is not a reliable yield generation strategy in practice. It is expected that your contract will lose money!
+This assessment explores the concept of generating yield by exploiting differences in rates across markets through the use of decentralized lending protocols and decentralized exchanges. Please create a repository on Github for you submission and create a feature branch for your work. NOTE: Aave-trage is not a reliable yield generation strategy in practice. It is expected that  contract will lose money!
